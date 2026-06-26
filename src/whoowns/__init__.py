@@ -1,0 +1,2 @@
+"""WhoOwns ownership resolution service."""
+

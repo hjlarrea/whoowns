@@ -1,0 +1,6 @@
+- [ ] API key issuance model
+- [ ] Web UI (requirement to be written in a separate doc)
+- [ ] Information scrapping job (e.g. read Github repos for metadata files like Backstage does)
+- [ ] move from `Base.metadata.create_all()` to migrations.
+- [ ] Add Update/Delete capabilities for the different endpoints
+- [ ] Oauth support for service-to-service communication (requirement to be written in a se parate doc)
