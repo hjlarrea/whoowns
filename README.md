@@ -1,3 +1,5 @@
+<center><img src="img/whoowns.png" alt="logo" width="200"/></center>
+
 # WhoOwns
 
 WhoOwns is a lightweight ownership resolution service that answers one question:
